@@ -12,7 +12,7 @@ img {
 }
 
 .header {
-    background-image: url('/images/bg.JPG');
+    background-image: url('/css/images/bg.JPG');
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -294,7 +294,7 @@ img {
 
 
 .black-block {
-    background-image: url(/images/bg-list.JPG);
+    background-image: url(/css/images/bg-list.JPG);
     padding: 80px 0px;
 }
 
@@ -424,7 +424,7 @@ img {
     padding-bottom: 50px;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(/images/bgmenu.jpg);
+    background-image: url(/css/images/bgmenu.jpg);
 }
 
 .menu-title {
